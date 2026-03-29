@@ -1,0 +1,43 @@
+{
+  "name": "hmi-video-analysis",
+  "version": "1.0.0",
+  "description": "车机 HMI 竞品分析系统 Skill - 从视频上传到生成专业分析报告的完整工作流程",
+  "author": "Coze Coding",
+  "tags": ["hmi", "video-analysis", "asr", "ai-analysis", "report-generation"],
+  "triggers": [
+    "车机 HMI 分析",
+    "竞品分析系统",
+    "视频分析报告",
+    "HMI 截图识别",
+    "视频转报告",
+    "车载界面分析"
+  ],
+  "dependencies": {
+    "npm": [
+      "coze-coding-dev-sdk",
+      "fluent-ffmpeg",
+      "docx"
+    ],
+    "devDependencies": [
+      "@types/fluent-ffmpeg"
+    ],
+    "system": [
+      "ffmpeg"
+    ]
+  },
+  "entrypoint": "skill.md",
+  "scripts": {
+    "init": "scripts/init-project.sh"
+  },
+  "assets": [
+    "assets/route-template.ts",
+    "assets/page-template.tsx"
+  ],
+  "references": [
+    "references/video-processing.md",
+    "references/audio-extraction.md",
+    "references/asr-integration.md",
+    "references/report-generation.md",
+    "references/upload-standards.md"
+  ]
+}
