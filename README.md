@@ -1,5 +1,3 @@
-<img width="295" height="227" alt="image" src="https://github.com/user-attachments/assets/8a4a75f2-d901-416e-9d73-f4ebe9ab5bee" /># hmi-video-analysis Skill
-
 ## 简介
 HMI 视频分析 Skill 是一个专为车机 HMI（Human-Machine Interface）竞品分析设计的自动化工具。它能够：
 
