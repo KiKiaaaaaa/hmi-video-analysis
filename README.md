@@ -46,8 +46,5 @@ HMI 视频分析 Skill 是一个专为车机 HMI（Human-Machine Interface）竞
 | 最大文件 | 1GB            | 建议不超过此限制   |
 | 支持格式 | MP4, WebM, MOV | 常见视频格式     |
 
-## 如何使用
-点击这里查看在线网页应用：https://018f4c07-1b7e-4f34-9738-2ece2fba27fe.dev.coze.site
-
 ## 作者
 噢呜酱/KiKi
